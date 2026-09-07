@@ -5,7 +5,7 @@ about:
   head: 158e299
   archived: false
   latestVersion: "v0.9.0"
-  collectedAt: 2026-09-07T04:45:29Z
+  collectedAt: 2026-09-07T19:43:56Z
 timeline:
   created: 2026-01-30
   lastCommit: 2026-08-31
@@ -79,7 +79,7 @@ total:
   commit: 86
 ---
 path: /home/runner/.x-repo/github.com/legostin/cull
-collectedAt: 2026-09-07T04:45:29Z
+collectedAt: 2026-09-07T19:43:56Z
 loc:
   Go:
     code: 8456
@@ -100,7 +100,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:45:30+00:00
+  collectedAt: 2026-09-07T19:43:57+00:00
   platform:
     darwin/arm64:
       name:  cull_darwin_arm64.tar.gz
