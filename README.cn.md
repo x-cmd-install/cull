@@ -4,7 +4,7 @@
 
 Interactive TUI disk space analyzer
 
-![cull](https://repo.x-cmd.io/cull.svg)
+![cull](https://repo.x-cmd.io/cull.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,20 @@ x install cull
 - **最新版本**: `v0.9.0` (2026-08-31)
 - **最近提交**: 2026-08-31
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-08-31T05:04:02Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/legostin/cull/releases/download/v0.9.0/checksums.txt) | 726 B | `other` |
+| [cull_0.9.0_linux_amd64.deb](https://github.com/legostin/cull/releases/download/v0.9.0/cull_0.9.0_linux_amd64.deb) | 1.7 MiB | `native/linux/x64` |
+| [cull_0.9.0_linux_arm64.deb](https://github.com/legostin/cull/releases/download/v0.9.0/cull_0.9.0_linux_arm64.deb) | 1.5 MiB | `native/linux/arm64` |
+| [cull_darwin_amd64.tar.gz](https://github.com/legostin/cull/releases/download/v0.9.0/cull_darwin_amd64.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [cull_darwin_arm64.tar.gz](https://github.com/legostin/cull/releases/download/v0.9.0/cull_darwin_arm64.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
+| [cull_linux_amd64.tar.gz](https://github.com/legostin/cull/releases/download/v0.9.0/cull_linux_amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [cull_linux_arm64.tar.gz](https://github.com/legostin/cull/releases/download/v0.9.0/cull_linux_arm64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [cull_windows_amd64.zip](https://github.com/legostin/cull/releases/download/v0.9.0/cull_windows_amd64.zip) | 1.8 MiB | `native/win/x64` |
+| [cull_windows_arm64.zip](https://github.com/legostin/cull/releases/download/v0.9.0/cull_windows_arm64.zip) | 1.6 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -58,4 +71,4 @@ cull 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:37:04Z._
