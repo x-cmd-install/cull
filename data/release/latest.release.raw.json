@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 726,
       "digest": "sha256:3ed110c04dc96726c8fa124be58f0f49a7ca2667d3b5cfc15add948112c9ea15",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-31T05:04:01Z",
       "updated_at": "2026-08-31T05:04:01Z",
       "browser_download_url": "https://github.com/legostin/cull/releases/download/v0.9.0/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1621307,
       "digest": "sha256:99bcf9e57c66271eed1fe9b1244ceb40a320cc6ccedb6c1b34bcbad48fb89727",
-      "download_count": 57,
+      "download_count": 58,
       "created_at": "2026-08-31T05:04:00Z",
       "updated_at": "2026-08-31T05:04:00Z",
       "browser_download_url": "https://github.com/legostin/cull/releases/download/v0.9.0/cull_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1735697,
       "digest": "sha256:0c2e555b4de75fcc547559b12fbfb2b04def160b1b1f9faefc1e8cb7f41c7769",
-      "download_count": 234,
+      "download_count": 237,
       "created_at": "2026-08-31T05:04:00Z",
       "updated_at": "2026-08-31T05:04:01Z",
       "browser_download_url": "https://github.com/legostin/cull/releases/download/v0.9.0/cull_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1843028,
       "digest": "sha256:25d2969773bb2f8b64c38c78395a586cdf3e30859217e87104ebcb3128d47d1f",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-31T05:04:00Z",
       "updated_at": "2026-08-31T05:04:00Z",
       "browser_download_url": "https://github.com/legostin/cull/releases/download/v0.9.0/cull_windows_amd64.zip"
