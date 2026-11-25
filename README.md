@@ -44,12 +44,12 @@ Total: **8,456** lines of code across **52** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 90d | 2026-08-26 | 1 | 0 | 0 | 1 | 0 | 1 |
-| last180d | 2026-05-28 | 4 | 1 | 0 | 2 | 0 | 44 |
-| 360d | 2025-11-29 | 12 | 6 | 0 | 6 | 0 | 77 |
-| last720d | 2024-12-04 | 12 | 6 | 0 | 6 | 0 | 86 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 90d | 2026-08-27 | 1 | 0 | 0 | 1 | 0 | 1 |
+| last180d | 2026-05-29 | 4 | 1 | 0 | 2 | 0 | 44 |
+| 360d | 2025-11-30 | 12 | 6 | 0 | 6 | 0 | 77 |
+| last720d | 2024-12-05 | 12 | 6 | 0 | 6 | 0 | 86 |
 
 ## Release assets
 
@@ -65,10 +65,6 @@ Total: **8,456** lines of code across **52** files in the top 5 languages.
 | [cull_windows_amd64.zip](https://github.com/legostin/cull/releases/download/v0.9.0/cull_windows_amd64.zip) | 1.8 MiB | `native/win/x64` |
 | [cull_windows_arm64.zip](https://github.com/legostin/cull/releases/download/v0.9.0/cull_windows_arm64.zip) | 1.6 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/cull). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for cull lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cull` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -78,4 +74,4 @@ Install metadata for cull lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:46:51Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:38:03Z._
